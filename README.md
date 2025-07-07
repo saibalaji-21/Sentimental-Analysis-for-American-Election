@@ -3,7 +3,15 @@
 A Python-based NLP and machine learning project that analyzes public sentiment around the U.S. elections using Twitter data. Tweets mentioning candidates are collected, preprocessed, and analyzed to determine if public opinion is positive, negative, or neutral.
 
 ---
+## 🚀 Quick Start
 
+Just clone it and try it out:
+
+```bash
+git clone https://github.com/saibalaji-21/Waste-Detection-using-YOLOv5.git
+cd Waste-Detection-using-YOLOv5
+
+---
 ## 🧠 Project Overview
 
 - **Objective**: Understand public sentiment during the U.S. elections by analyzing Twitter chatter.
