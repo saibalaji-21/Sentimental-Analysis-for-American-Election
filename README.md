@@ -9,7 +9,7 @@ Just clone it and try it out:
 
 ```bash
 git clone https://github.com/saibalaji-21/Waste-Detection-using-YOLOv5.git
-cd Waste-Detection-using-YOLOv5
+cd Waste-Detection-using-YOLOv5```
 
 ---
 ## 🧠 Project Overview
