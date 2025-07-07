@@ -1,4 +1,4 @@
-# Sentimental Analysis for American Election 🇺🇸
+# Sentimental Analysis for American Election US
 
 A Python-based NLP and machine learning project that analyzes public sentiment around the U.S. elections using Twitter data. Tweets mentioning candidates are collected, preprocessed, and analyzed to determine if public opinion is positive, negative, or neutral.
 
